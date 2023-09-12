@@ -91,3 +91,14 @@
     left: 0;
   }
 }
+@media (min-width: 1890px) {
+  .line {
+    clip-path: polygon(85% 0, 100% 0, 100% 25%, 25% 100%, 18% 70%);
+  }
+}
+
+@media (min-width: 2805px) {
+  .line {
+    clip-path: polygon(85% 0, 100% 0, 100% 25%, 16% 100%, 16% 67%);
+  }
+}
