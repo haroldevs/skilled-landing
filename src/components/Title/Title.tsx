@@ -12,7 +12,6 @@ const Title = () => {
         </p>
         <button className={styles["title-content__btn"]}>Get Started</button>
       </div>
-      {/* <div className="mujer">imagen mujer</div> */}
     </section>
   );
 };

@@ -430,7 +430,6 @@ body {
   } */
   .main {
     width: 80%;
-    max-width: 1440px;
     margin: auto;
   }
 
